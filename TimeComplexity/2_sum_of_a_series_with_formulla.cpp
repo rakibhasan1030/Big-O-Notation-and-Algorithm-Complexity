@@ -6,9 +6,9 @@ int main()
 
     cin >> n;
 
-    result = n * (n + 12) / 2; // here, three mathmatical operation occur( * , + , /) and one assignment operation(=)
+    result = n * (n + 12) / 2; /* here, three mathmatical operation occur( * , + , /) and one assignment operation(=) */ 
 
-    cout << result; // this is not a complexity, because, it'll execute once
+    cout << result; /* this is not a complexity, because, it'll execute once */ 
 
     return 0;
 }
