@@ -1,7 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    int i, n, nums[101];
+
+    /* Constraints: : 0 <= n <= 100 */
+
+    int i, n, nums[101]; //here, n is an integer and n is n <= 100, so, the array depend on n's value.
 
     cin>>n;
 
