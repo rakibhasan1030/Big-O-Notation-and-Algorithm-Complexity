@@ -7,20 +7,19 @@ int main(){
 
     for(int i = 0; i < n; i++){
         for(int j = 0; j < n; j++){
-            result = result + 1; // here number of operation is dependent on input, if the input is 5 then the loop will execute 5x5 = 25 times
+            result = result + 1; /* here number of operation is dependent on input, if the input is 5 then the loop will execute 5x5 = 25 times */
         } 
     }
     
     for(int i = 0; i < n; i++){
-        result = result + 1; // here number of operation is dependent on input, if the input is 5 then the loop will execute 5 times 
+        result = result + 1; /* here number of operation is dependent on input, if the input is 5 then the loop will execute 5 times */ 
     }
 
     
-    cout << result; //this is not a complexity, because, it'll execute once
+    cout << result; /* this is not a complexity, because, it'll execute once */
 
     return 0;
 }
-
 /*
     In this program total loop is 2, one is double for loop which is nested and one is single for loop.
     For the first nested loop the complexity will be O(n^2) and the second loop it'll be O(n).
