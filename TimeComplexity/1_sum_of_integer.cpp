@@ -4,9 +4,9 @@ int main()
 {
     int m, n, result;
 
-    m = 5;          // first assignment operatoion
-    n = 10;         // second assignment operatoion
-    result = m + n; // third assignment operatoion and a mathmatical operation which is sum of (m+n)
+    m = 5;          /* first assignment operatoion */ 
+    n = 10;         /* second assignment operatoion */ 
+    result = m + n; /* third assignment operatoion and a mathmatical operation which is sum of (m+n) */
 
     cout << result;
 
