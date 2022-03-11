@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int n;
-    cin>>n; // here, n is an integer and we take one input, so whatever we take as inpute memory will use only 4 byte
+    cin>>n; /* here, n is an integer and we take one input, so whatever we take as inpute memory will use only 4 byte */
     if(n%2==0){
         cout<< n << " is EVEN!" << endl;
     }else{
