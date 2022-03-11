@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 
-    //here, the array is two dimentional and is's a 2x2 array. So, memory will be allocate for n x n times. 
+    /* here, the array is two dimentional and is's a 2x2 array. So, memory will be allocate for n x n times  */
     int firstArray[2][2] = {1, 2, 3, 4}, secondArray[2][2] = {1, 2, 3, 4}, resultArray[2][2];
 
     for(int i = 0; i < 2; i++){
