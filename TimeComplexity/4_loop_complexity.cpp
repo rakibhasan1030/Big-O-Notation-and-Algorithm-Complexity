@@ -7,10 +7,10 @@ int main(){
 
     for(int i = 0; i < n; i++){
         for(int j = 0; j < n; j++){
-            result = result + 1; // here number of operation is dependent on input, if the input is 5 then the loop will execute 5x5 = 25 times
+            result = result + 1; /* here number of operation is dependent on input, if the input is 5 then the loop will execute 5x5 = 25 times */
         } 
     }
-    cout << result; //this is not a complexity, because, it'll execute once
+    cout << result; /* this is not a complexity, because, it'll execute once */
 
     return 0;
 }
