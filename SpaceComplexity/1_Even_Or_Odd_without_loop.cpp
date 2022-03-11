@@ -9,4 +9,4 @@ int main(){
         cout<< n << " is ODD!" << endl;
     }
     return 0;
-} /* Space Complexity of this program is Big O(n) or O(n) or Order(n)*/
+} /* Space Complexity of this program is Big O(1) or O(1) or Order(1)*/
