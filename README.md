@@ -231,11 +231,6 @@ function addAllArrays(arrayOfArrays){
 }
 ```
 
-## Extra Practice
-
-More **[Exercises](exercises.md)** and their **[Solutions](solutions.md)** are available for you to try.
-
-
 ## Additional Resources
 
 -   [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
